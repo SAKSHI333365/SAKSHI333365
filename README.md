@@ -89,11 +89,6 @@ focusing on layout and responsive design.
 An IoT project using an LDR sensor to automatically
 control a light based on surrounding brightness.
 
-## 📊 GitHub Stats
-
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAKSHI333365&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI333365&layout=compact&theme=tokyonight)
 
 ## 🔥 Contribution Streak
 
