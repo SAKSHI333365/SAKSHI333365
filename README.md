@@ -84,10 +84,7 @@ frontend development and JavaScript.
 A responsive website created using HTML and CSS,
 focusing on layout and responsive design.
 
-### 💡 IoT-Based Light ON/OFF System
 
-An IoT project using an LDR sensor to automatically
-control a light based on surrounding brightness.
 
 
 ## 🔥 Contribution Streak
