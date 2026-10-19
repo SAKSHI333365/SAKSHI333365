@@ -84,7 +84,17 @@ frontend development and JavaScript.
 A responsive website created using HTML and CSS,
 focusing on layout and responsive design.
 
+📄 Resume Builder
 
+A full-stack web application that helps users create and customize professional resumes.
+
+⚛️ Frontend: React.js / Next.js
+
+⚙️ Backend: Node.js, Express.js
+
+🗄️ Database: MongoDB
+
+🎯 Goal: Simplifying resume creation with an easy-to-use interface.
 
 
 ## 🔥 Contribution Streak
